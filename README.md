@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Peggi Jelita</h1>
 <img align="center" width="100%" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTI1N3Jmc3VhYjYybm9haHZpcDMzMngwaTc2N3MxbDV4cDFod3hxMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WRRL1EKo9rNe12S4zh/giphy.webp">
-<h3 align="center">I am a Software QA Engineer and an IT Enthusiast. My areas of expertise Software Testing. I am highly motivated by collaborative environments where I can interact with team members and engage in meaningful discussions to deliver successful projects.</h3>
+<h3 align="center">I am a Software QA Engineer and IT enthusiast with expertise in software testing. I am highly motivated by collaborative environments where I can interact with team members and engage in meaningful discussions to deliver successful projects.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=peggi-jelita&label=Profile%20views&color=0e75b6&style=flat" alt="peggi-jelita" /> </p>
 
