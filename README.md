@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Peggi Jelita</h1>
-<h3 align="center">A passionate Software QA Junior from Indonesia</h3>
+<img align="center" width="100%" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/81bb4b165684019.640b6038d133e.gif">
+<h3 align="center">I am a Software QA Engineer and an IT Enthusiast. My areas of expertise Software Testing. I am highly motivated by collaborative environments where I can interact with team members and engage in meaningful discussions to deliver successful projects.</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=anandaarya&label=Profile%20views&color=0e75b6&style=flat" alt="anandaarya" /> </p>
 
 - 🌱 I’m currently learning **QA Automation & Frontend Development**
 
